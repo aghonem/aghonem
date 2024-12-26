@@ -19,11 +19,10 @@ Welcome to my GitHub profile! I am a passionate engineer and researcher with ove
 
 ## 🚀 **Skills**
 
-- **Hardware Design**: ASIC, SoC, RTL-to-GDSII, post-silicon validation
-- **Technologies**: RISC-V, Neuromorphic Processors, Embedded FPGA
-- **EDA Tools**: Cadence (Xcelium, Innovus), Synopsys (VCS, DC), Mentor IC Station
-- **Programming Languages**: SystemVerilog, Verilog, Python, C++, MATLAB, Tcl, Bash
-- **Scripting**: Automation of physical design workflows and methodologies
+- **Analytical**: Deep understanding of low-power design across the stack from architecture, RTL, synthesis, and PPA to IP and hierarchical PnR
+- **Technologies**: RISC-V, Emerging Memory Technologies (MRAM, ReRAM), Embedded FPGA, SoC Design.
+- **ASIC-Flow Tools**: Cadence (Xceluim, Genus, Innovus, Tempus, voltus), Synopsys (VCS and DC, ICC II), Vivado and QuestaSim.
+- **Languages**: Verilog, SystemVeilog, Python (NNs, PyTorch), Matlab, C++, Verilog-A, Latex, TCL, PERL, and bash scripting
 
 ---
 
