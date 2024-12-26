@@ -1,6 +1,6 @@
 # 👋 Ahmed Z. Ghonem
 
-### ** SoC Design Engineer | AI-Hardware Architectures | Low-Power Secure SoC**
+### SoC Design Engineer | AI-Hardware Architectures | Low-Power Secure SoC
 
 Welcome to my GitHub profile! I am a passionate engineer and researcher with over seven years of experience in ASIC and SoC design. I specialize in low-power, secure, and AI-accelerated systems. With a proven track record of impactful research and innovation, I’ve contributed to four successful SoC tape-outs and published in top-tier IEEE conferences and Journals.
 
